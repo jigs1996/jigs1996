@@ -1,10 +1,9 @@
-
 <h1 align="center">Hi, I'm Jignesh 👋</h1>
 
 <p align="center">
-  <strong>Technical Lead · Full-Stack Engineer · AI Engineer</strong>
+  <strong>Technical Lead · Full-Stack Engineer · AI Engineering</strong>
   <br />
-  Building scalable software products, backend systems, and AI-powered applications.
+  Designing, building, and scaling software products — from backend architecture to production.
 </p>
 
 <p align="center">
@@ -17,16 +16,16 @@
 
 I'm a software engineer passionate about designing reliable architectures, solving complex engineering problems, and building production-ready products.
 
-Currently exploring the intersection of **Software Engineering and Agentic AI**.
+Currently exploring the intersection of **Software Engineering and Agentic AI**, with a focus on building practical AI-powered applications and intelligent workflows.
 
-## 🚀 What I'm Working On
+## 🚀 Areas of Interest
 
 | Area | Focus |
 |---|---|
 | 🤖 AI Engineering | Agentic AI, multi-agent systems, MCP, LLM-powered applications |
 | ⚙️ Backend Engineering | Scalable APIs, backend services, SaaS architecture |
 | ☁️ Infrastructure | Cloud architecture, deployment, performance optimization |
-| 🧠 Experimentation | AI workflows, automation, developer productivity |
+| 🧠 Automation | AI workflows, intelligent automation, developer productivity |
 
 ## 🛠️ Tech Stack
 
@@ -36,7 +35,7 @@ Currently exploring the intersection of **Software Engineering and Agentic AI**.
 | **Frontend** | React, Next.js, Vue.js, Nuxt, Tailwind CSS |
 | **Backend** | Node.js, AdonisJS, Laravel, Express.js |
 | **Databases** | MySQL, PostgreSQL, Redis |
-| **AI Engineering** | LLMs, AI Agents, MCP, RAG, Tool Calling |
+| **AI & Automation** | LLMs, AI Agents, MCP, RAG, Tool Calling |
 | **Infrastructure** | AWS, Cloudflare, DigitalOcean, Docker, Vercel |
 
 ## ✍️ Writing & Knowledge Sharing
@@ -53,9 +52,6 @@ I write about software engineering, architecture, AI, and lessons learned while 
   </a>
   <a href="https://jignesh.dev">
     <img src="https://img.shields.io/badge/Website-Visit-333333?style=flat&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://github.com/jigs1996">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github" alt="GitHub" />
   </a>
 </p>
 
